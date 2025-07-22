@@ -59,7 +59,7 @@ return {
       winblend = 0,
     },
   },
-}
+},
 
   -- add pyright to lspconfig
   {
